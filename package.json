@@ -35,7 +35,7 @@
     "@fullcalendar/timeline": "^6.1.17",
     "@jspreadsheet-ce/react": "^5.0.2",
     "@teselagen/bio-parsers": "^0.4.28",
-    "@teselagen/ove": "^0.7.36",
+    "@teselagen/ove": "^0.8.16",
     "@yarnpkg/core": "^4.4.1",
     "@yarnpkg/fslib": "^3.1.2",
     "@yarnpkg/libzip": "^3.2.1",
